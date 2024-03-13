@@ -1,6 +1,6 @@
 <div align="center">
   
-# [GoDot.](https://github.com/BrenoFariasdaSilva/GoDot) <img src="[Icon-Image-URL](https://github.com/BrenoFariasdaSilva/GoDot/blob/main/.assets/Icons/GoDot.svg)"  width="3%" height="3%">
+# [GoDot.](https://github.com/BrenoFariasdaSilva/GoDot) <img src="https://github.com/BrenoFariasdaSilva/GoDot/blob/main/.assets/Icons/GoDot.svg"  width="3%" height="3%">
 
 </div>
 
