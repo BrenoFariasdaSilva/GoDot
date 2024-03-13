@@ -30,16 +30,14 @@ Project-Description.
 </div>
 
 ## Table of Contents
-- [GoDot. ](#GoDot-)
+- [GoDot. ](#godot-)
 	- [Table of Contents](#table-of-contents)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
 	- [Setup](#setup)
 		- [Clone the repository](#clone-the-repository)
 		- [Dependencies](#dependencies)
-		- [Dataset - Optional](#dataset---optional)
 	- [Usage](#usage)
-	- [Results - Optional](#results---optional)
 	- [Contributing](#contributing)
 	- [License](#license)
 		- [Apache License 2.0](#apache-license-20)
@@ -76,15 +74,7 @@ make dependencies
 
 ## Usage
 
-In order to run the project, run the following command:
-
-```bash
-make run
-```
-
-## Results - Optional
-
-Discuss the results obtained in the project.
+In order to run the project, you must open the GoDot GUI and import the desired directory of this repository. Then, you can run the project by clicking the play button.
 
 ## Contributing
 
