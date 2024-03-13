@@ -48,8 +48,6 @@ Project-Description.
     - [Step 5: Celebrate Your Contribution](#step-5-celebrate-your-contribution)
   - [License](#license)
     - [Apache License 2.0](#apache-license-20)
-    - [Creative Commons Zero v1.0 Universal](#creative-commons-zero-v10-universal)
-    - [MIT License](#mit-license)
 
 
 ## Introduction
@@ -191,12 +189,4 @@ By following these steps, you can contribute effectively to projects and make a 
 
 ### Apache License 2.0
 
-This project is licensed under the [Apache License 2.0](LICENSE), which allows you to use, modify, distribute, and sublicense this code, even for commercial purposes, as long as you include the original copyright notice and attribute you as the original author for the repository. See the [LICENSE](LICENSE) file for more details.
-
-### Creative Commons Zero v1.0 Universal
-
-This project is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE), which means you are free to use, modify, and distribute the code, as long as you mention include the license and attribute you as the original author for the repository. See the [LICENSE](LICENSE) file for more details.
-
-### MIT License
-
-This project is licensed under the LICENSE-HERE License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Apache License 2.0](LICENSE). This license permits use, modification, distribution, and sublicense of the code for both private and commercial purposes, provided that the original copyright notice and a disclaimer of warranty are included in all copies or substantial portions of the software. It also requires a clear attribution back to the original author, [Breno Farias da Silva](https://github.com/BrenoFariasdaSilva), of the repository, in . For more details, see the [LICENSE](LICENSE) file in this repository.
