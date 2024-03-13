@@ -8,7 +8,8 @@
   
 ---
 
-Project-Description.
+Welcome to my GoDot Repository!
+This repository is dedicated to showcasing my journey through game development using the powerful and open-source Godot Engine. Here, you'll find a collection of both 2D and 3D games, each stored in its own subdirectory and numerically ordered by creation date for easy navigation.
   
 ---
 
