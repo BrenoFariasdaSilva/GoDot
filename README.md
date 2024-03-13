@@ -36,7 +36,6 @@ Project-Description.
   - [Requirements](#requirements)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
-    - [Dependencies](#dependencies)
   - [Usage](#usage)
   - [Contributing](#contributing)
     - [Step 1: Set Up Your Environment](#step-1-set-up-your-environment)
@@ -67,14 +66,6 @@ Bullet points of the requirements.
 ```bash
 git clone https://github.com/BrenoFariasdaSilva/GoDot.git
 cd GoDot
-```
-
-### Dependencies
-
-1. Install the project dependencies with the following command:
-
-```bash
-make dependencies
 ```
 
 ## Usage
