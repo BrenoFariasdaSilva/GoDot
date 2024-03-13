@@ -74,14 +74,6 @@ cd GoDot
 make dependencies
 ```
 
-### Dataset - Optional
-
-1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/GoDot)` and run the following command:
-
-```bash
-make dataset
-```
-
 ## Usage
 
 In order to run the project, run the following command:
