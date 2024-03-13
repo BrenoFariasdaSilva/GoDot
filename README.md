@@ -52,7 +52,7 @@ This repository is dedicated to showcasing my journey through game development u
 
 ## Introduction
 
-Detailed project description.
+Welcome to GoDot., a curated collection of my game development endeavors using the Godot Engine. This repository serves as a living portfolio, featuring a diverse array of games, experiments, and prototypes that I've developed. Ranging from simple 2D puzzles to complex 3D adventures, each game represents a step in my ongoing journey to master the art and science of game development.
 
 ## Requirements
 
