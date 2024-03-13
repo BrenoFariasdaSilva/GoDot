@@ -56,7 +56,10 @@ Welcome to GoDot., a curated collection of my game development endeavors using t
 
 ## Requirements
 
-Bullet points of the requirements.
+- **Godot Engine**: Most recent stable version recommended. The games are developed with various versions, so the latest provides the best backward compatibility.
+- **Git**: For cloning and managing contributions to the repository.
+- **Basic Knowledge of Godot**: Familiarity with Godot's interface and scripting language (GDScript) will help you understand and run the projects.
+- **A Compatible Device**: A computer capable of running the Godot Engine and the projects within this repository.
 
 ## Setup
 
