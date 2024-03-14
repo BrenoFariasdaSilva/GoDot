@@ -37,6 +37,7 @@ This repository is dedicated to showcasing my journey through game development u
   - [Requirements](#requirements)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
+    - [GoDot Installation](#godot-installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
     - [Step 1: Set Up Your Environment](#step-1-set-up-your-environment)
@@ -71,6 +72,16 @@ Welcome to GoDot., a curated collection of my game development endeavors using t
 git clone https://github.com/BrenoFariasdaSilva/GoDot.git
 cd GoDot
 ```
+
+### GoDot Installation
+
+1. Install the project dependencies with the following command:
+
+```bash
+make dependencies
+```
+
+This will install the Godot Engine and any other dependencies required to run the projects in this repository.
 
 ## Usage
 
