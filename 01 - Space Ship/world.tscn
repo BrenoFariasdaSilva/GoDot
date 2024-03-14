@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://cr1lqbrwln2vb"]
+
+[ext_resource type="PackedScene" uid="uid://cf1v508pmu45q" path="res://Player_Ship.tscn" id="2_bx8gs"]
+[ext_resource type="Texture2D" uid="uid://cqvldn2co1kq6" path="res://Assets/background_stars.png" id="2_kh61f"]
+
+[node name="World" type="Node2D"]
+
+[node name="Background" type="TextureRect" parent="."]
+offset_right = 1152.0
+offset_bottom = 640.0
+texture = ExtResource("2_kh61f")
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_bx8gs")]
