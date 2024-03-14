@@ -78,7 +78,7 @@ cd GoDot
 1. Install the project dependencies with the following command:
 
 ```bash
-make dependencies
+make install
 ```
 
 This will install the Godot Engine and any other dependencies required to run the projects in this repository.
