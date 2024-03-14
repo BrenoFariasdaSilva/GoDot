@@ -23,8 +23,6 @@ This repository is dedicated to showcasing my journey through game development u
 ![GitHub language count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/GoDot)
 ![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/GoDot)
 ![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/GoDot.svg)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/BrenoFariasdaSilva/GoDot)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/BrenoFariasdaSilva/GoDot)
 
 </div>
 
