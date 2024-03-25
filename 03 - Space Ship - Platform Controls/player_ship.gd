@@ -18,8 +18,8 @@ func _ready() -> void:
 func _process(_delta: float) -> void:
 	#_move_4_directions(_delta)
 	#_move_4_directions_nonstop(_delta)
-	#_move_in_any_direction(_delta)
-	_move_and_turn(_delta)
+	_move_in_any_direction(_delta)
+	#_move_and_turn(_delta)
 	
 func _move_and_turn(_delta: float) -> void:
 	if Input.is_action_pressed(_keys["left"]):

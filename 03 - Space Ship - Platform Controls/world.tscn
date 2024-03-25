@@ -15,6 +15,15 @@ texture = ExtResource("2_rp43y")
 [node name="Ship1" parent="." instance=ExtResource("2_gwi8p")]
 position = Vector2(512, 304)
 
+[node name="Ship2" parent="." instance=ExtResource("2_gwi8p")]
+position = Vector2(824, 408)
+_keys = {
+"down": "ui_down2",
+"left": "ui_left2",
+"right": "ui_right2",
+"up": "ui_up2"
+}
+
 [node name="Blocks" type="Node2D" parent="."]
 
 [node name="Block" parent="Blocks" instance=ExtResource("3_ashvk")]
