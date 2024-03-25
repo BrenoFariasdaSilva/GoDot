@@ -1,9 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://5b1g4ye03ih0"]
+[gd_scene load_steps=6 format=3 uid="uid://5b1g4ye03ih0"]
 
 [ext_resource type="PackedScene" uid="uid://b4lope2jmcye5" path="res://player_ship.tscn" id="2_gwi8p"]
 [ext_resource type="Texture2D" uid="uid://ba24kx21dv7nc" path="res://background_stars.png" id="2_rp43y"]
 [ext_resource type="PackedScene" uid="uid://kfgkevy6fhr7" path="res://block.tscn" id="3_ashvk"]
 [ext_resource type="Script" path="res://LabelFPS.gd" id="4_v4gsq"]
+[ext_resource type="PackedScene" uid="uid://bbxgackj80aop" path="res://player_bot.tscn" id="5_4410b"]
 
 [node name="World" type="Node2D"]
 
@@ -58,3 +59,6 @@ theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
 theme_override_colors/font_outline_color = Color(1, 0, 0, 1)
 text = "FPS: "
 script = ExtResource("4_v4gsq")
+
+[node name="PlayerBot" parent="." instance=ExtResource("5_4410b")]
+position = Vector2(240, 224)
