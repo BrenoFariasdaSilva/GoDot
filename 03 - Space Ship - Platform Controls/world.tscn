@@ -1,0 +1,51 @@
+[gd_scene load_steps=5 format=3 uid="uid://5b1g4ye03ih0"]
+
+[ext_resource type="PackedScene" uid="uid://b4lope2jmcye5" path="res://player_ship.tscn" id="2_gwi8p"]
+[ext_resource type="Texture2D" uid="uid://ba24kx21dv7nc" path="res://background_stars.png" id="2_rp43y"]
+[ext_resource type="PackedScene" uid="uid://kfgkevy6fhr7" path="res://block.tscn" id="3_ashvk"]
+[ext_resource type="Script" path="res://LabelFPS.gd" id="4_v4gsq"]
+
+[node name="World" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1024.0
+offset_bottom = 576.0
+texture = ExtResource("2_rp43y")
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_gwi8p")]
+position = Vector2(512, 304)
+
+[node name="Blocks" type="Node2D" parent="."]
+
+[node name="Block" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(240, 272)
+
+[node name="Block2" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(240, 304)
+
+[node name="Block3" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(752, 144)
+
+[node name="Block4" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(752, 176)
+
+[node name="Block5" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(240, 336)
+
+[node name="Block6" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(752, 208)
+
+[node name="Block7" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(240, 368)
+
+[node name="Block8" parent="Blocks" instance=ExtResource("3_ashvk")]
+position = Vector2(752, 240)
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_colors/font_color = Color(0, 0.513726, 0.972549, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 0, 0, 1)
+text = "FPS: "
+script = ExtResource("4_v4gsq")
