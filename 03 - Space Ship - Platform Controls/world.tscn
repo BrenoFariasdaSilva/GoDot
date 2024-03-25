@@ -12,7 +12,7 @@ offset_right = 1024.0
 offset_bottom = 576.0
 texture = ExtResource("2_rp43y")
 
-[node name="CharacterBody2D" parent="." instance=ExtResource("2_gwi8p")]
+[node name="Ship1" parent="." instance=ExtResource("2_gwi8p")]
 position = Vector2(512, 304)
 
 [node name="Blocks" type="Node2D" parent="."]
