@@ -2,6 +2,7 @@ extends CharacterBody2D
 class_name PlayerShip
 
 const SPEED: float = 400
+const ROTATION_SPEED: float = 5
 @onready var _size: Vector2 = $Sprite2D.get_rect().size
 
 var _input: Vector2 = Vector2.ZERO
@@ -15,7 +16,26 @@ func _ready() -> void:
 func _process(_delta: float) -> void:
 	#_move_4_directions(_delta)
 	#_move_4_directions_nonstop(_delta)
-	_move_in_any_direction(_delta)
+	#_move_in_any_direction(_delta)
+	_move_and_turn(_delta)
+	
+func _move_and_turn(_delta: float) -> void:
+	if Input.is_action_pressed("ui_left"):
+		rotation -= ROTATION_SPEED * _delta
+	elif Input.is_action_pressed("ui_right"):
+		rotation += ROTATION_SPEED * _delta
+		
+	if Input.is_action_pressed("ui_up"):
+		# _input += Vector2.from_angle(rotation) * SPEED * 2 * _delta
+		_input += Vector2(cos(rotation), sin(rotation)) * SPEED * 2 * _delta
+	elif Input.is_action_pressed("ui_down"):
+		#_input = _input.move_toward(Vector2.ZERO, SPEED * _delta)
+		_input = _input * 0.95
+		
+	velocity = _input.limit_length(SPEED)
+	move_and_slide()
+	_wrap_screen()
+	
 
 
 func _move_in_any_direction(_delta: float) -> void:
