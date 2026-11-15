@@ -27,7 +27,6 @@ This repository is dedicated to showcasing my journey through game development u
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/pulls)
