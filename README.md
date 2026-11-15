@@ -23,17 +23,6 @@ This repository is dedicated to showcasing my journey through game development u
 ![GitHub language count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/GoDot)
 ![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/GoDot)
 ![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/GoDot.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/GoDot)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/GoDot)
-![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/GoDot)
-![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/GoDot)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/GoDot)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/GoDot.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/GoDot/main)](https://github.com/BrenoFariasdaSilva/GoDot/commits/main)
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/graphs/contributors)
@@ -46,7 +35,6 @@ This repository is dedicated to showcasing my journey through game development u
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/GoDot/main)](https://github.com/BrenoFariasdaSilva/GoDot/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/GoDot?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/GoDot/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-GDScript-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/3c3d7b46b9dea4697afbab06ed9a9afbbf3f52be.svg)
 
 </div>
