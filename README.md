@@ -27,10 +27,30 @@ This repository is dedicated to showcasing my journey through game development u
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/3c3d7b46b9dea4697afbab06ed9a9afbbf3f52be.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/GoDot)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/GoDot)
+![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/GoDot)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/GoDot)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/GoDot)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/GoDot.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/GoDot/main)](https://github.com/BrenoFariasdaSilva/GoDot/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/GoDot)](https://github.com/BrenoFariasdaSilva/GoDot/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/GoDot/main)](https://github.com/BrenoFariasdaSilva/GoDot/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/GoDot?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/GoDot/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-GDScript-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/3c3d7b46b9dea4697afbab06ed9a9afbbf3f52be.svg)
 
 </div>
+
 
 ## Table of Contents
 - [GoDot. ](#godot-)
